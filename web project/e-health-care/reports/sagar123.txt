@@ -1,0 +1,31 @@
+Date Of Admission:  01-12-22 01:05:04 
+Patient Id:  16 
+Patient Name:   Sagar Shinde 
+Patient Address:   Dhivaji Chowk,latur 
+Patient Phone No:   09730220726 
+Patient Age:   23 
+Any Major Disease Suffered Earlier:   Sa 
+Patient Gender:   Male 
+Patient Blood Group:   A+ 
+
+
+****************More Info**************** 
+
+Date Of Added Extra Information:  01-12-22 01:05:26 
+Docter Appointed:   Sa 
+Symptoms:   Sw 
+Diagnosis:   Saw 
+Medicines:   Sz 
+Admission Required:   Yes
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 01-12-22 01:06:33  
+Number Of Days Patient Stayed:   12 
+Ward Charges Per Day:   34 
+Total Ward Charges:   Total Ward Cherges Is: 408 
+Docters Fees:   2 
+Service Fee:   32 
+
+ Total Bill:   Total Bill Is: 442
